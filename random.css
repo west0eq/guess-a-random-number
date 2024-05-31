@@ -1,0 +1,29 @@
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66vh;
+    margin-right: 25%;
+}
+
+button{
+    background-color: rgb(234, 233, 233);
+    border-radius: 10px;
+    padding: 3px;
+    font-size: 25px;
+    margin: 5px;
+}
+
+h1{
+    margin-bottom: 10%;
+    margin-left: 15%;
+    position: absolute;
+}
+
+button:hover{
+    background-color: aliceblue;
+}
+
+p{
+    margin-top: 20px;
+}
